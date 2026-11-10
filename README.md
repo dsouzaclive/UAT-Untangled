@@ -125,7 +125,7 @@ UAT_Untangled/
 │── supabase/
 │   └── functions/
 |       └── analyse-feedback/
-│           ├── index.ts
+│           └── index.ts
 ├── pom.xml
 ├── .gitignore
 └── README.md
