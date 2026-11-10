@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets.properties
+config.properties
+
+# Operating system
+.DS_Store
+Thumbs.db
